@@ -9,14 +9,16 @@
 
 - 👨‍💻 You can find my personnal website <a href="https://aharoudismail.vercel.app/" target="_blank"> here </a>.
 
-
-<p>______________________________________________________________________________________________________________________________</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ismail-Ahrd&layout=donut-vertical" alt="aharoud-ismail" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Ismail-Ahrd&show_icons=true&locale=en" alt="aharoud-ismail" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ismail-Ahrd&" alt="aharoud-ismail" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ismail-Ahrd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://streak-stats.demolab.com?user=Ismail-Ahrd&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ismail-Ahrd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ismail-Ahrd&theme=github-dark-dimmed&area=true&hide_border=true&hide_title=false" height="150" alt="activity-graph graph"  />
+  &nbsp;&nbsp;&nbsp;
+</div>
 
 <h2 align="left">Skills</h2>
 <ul>
